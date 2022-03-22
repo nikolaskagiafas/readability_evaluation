@@ -1,7 +1,5 @@
-#**About:**
 This repository stems from the optional project in the course of Pattern Recognition during the 9th semester of my studies in the Aristotle University of Thessaloniki. I developed it in cooperation with my colleague Odysseas Kyparissis. The title of the project is: "Applying readability evaluation techniques for software projects by using data mining on open source repositories".
 
-#**Guideline:**
 Execute scripts by the following order:
 1) FinalPreprocessing: preprocessing of the initial dataset.
 2) FinalClusteringSmall: clustering the small codes data segment.
